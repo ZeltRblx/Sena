@@ -1,8 +1,11 @@
 --[[
           This file has been protected with LuaShield
     Any efforts to tamper with, reverse engineer, or alter the
-    internal logic of this script will lead to a worldwide ban and
-     inclusion in a blacklist for all LuaShield-protected scripts
+ internal logic of this script will lead to a worldwide ban and inclusion
+         in a blacklist for all LuaShield-protected scripts
+
+     LuaShied v1 for Roblox, lua whitelisting system by Zelt#2710
+                              https://discord.gg/kAE2BmKw8y
 
    _____                    _    _       _     
   / ____|                  | |  | |     | |    
